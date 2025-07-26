@@ -8,3 +8,9 @@ stil i could not grasp the css part of the documentaion and took help of chat-gp
 next project would be css as keen objective in mind 
 anyways always aspire to learn more keep coding....
 👨‍💻be aware of python🐍
+
+
+link:https://rohanlakkz.github.io/python-documention-using-html-and-css/
+
+credit:freecodecamp
+link:https://www.freecodecamp.org/learn
